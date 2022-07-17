@@ -1,0 +1,22 @@
+{
+    "person":"0",
+    "motorbike":"1",
+    "chair":"2",
+    "boat":"3",
+    "bicycle":"4",
+    "sheep":"5",
+    "dog":"6",
+    "car":"7",
+    "diningtable":"8",
+    "cat":"9",
+    "bottle":"10",
+    "train":"11",
+    "bus":"12",
+    "aeroplane":"13",
+    "bird":"14",
+    "pottedplant":"15",
+    "tvmonitor":"16",
+    "cow":"17",
+    "horse":"18",
+    "sofa":"19"
+}
